@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 293b951749911674795d5b3c4629745b
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: CAR_Com4
+    100002: duplicatedCurve45
+    100004: //RootNode
+    100006: Joint_Body
+    100008: joint_FrontL
+    100010: joint_FrontR
+    100012: joint_RearL
+    100014: joint_RearR
+    100016: Joint_Root_FaceCar
+    100018: TireFrontL
+    100020: TireFrontR
+    100022: TireRearL
+    100024: TireRearR
+    400000: CAR_Com4
+    400002: duplicatedCurve45
+    400004: //RootNode
+    400006: Joint_Body
+    400008: joint_FrontL
+    400010: joint_FrontR
+    400012: joint_RearL
+    400014: joint_RearR
+    400016: Joint_Root_FaceCar
+    400018: TireFrontL
+    400020: TireFrontR
+    400022: TireRearL
+    400024: TireRearR
+    2300000: CAR_Com4
+    2300002: TireFrontL
+    2300004: TireFrontR
+    2300006: TireRearL
+    2300008: TireRearR
+    3300000: CAR_Com4
+    3300002: TireFrontL
+    3300004: TireFrontR
+    3300006: TireRearL
+    3300008: TireRearR
+    4300000: CAR_Com4
+    4300002: TireFrontR
+    4300004: TireRearR
+    4300006: TireRearL
+    4300008: TireFrontL
+    7400000: FaceCar
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FaceCar
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint_Root_FaceCar
+        weight: 1
+      - path: Joint_Root_FaceCar/Joint_Body
+        weight: 1
+      - path: Joint_Root_FaceCar/Joint_Body/joint_FrontL
+        weight: 1
+      - path: Joint_Root_FaceCar/Joint_Body/joint_FrontR
+        weight: 1
+      - path: Joint_Root_FaceCar/Joint_Body/joint_RearL
+        weight: 1
+      - path: Joint_Root_FaceCar/Joint_Body/joint_RearR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
