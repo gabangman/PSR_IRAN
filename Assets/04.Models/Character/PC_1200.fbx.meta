@@ -1,0 +1,2964 @@
+fileFormatVersion: 2
+guid: 06a20f9214754794981193d9770eb09d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint13
+    100010: joint14
+    100012: joint15
+    100014: joint16
+    100016: joint17
+    100018: joint18
+    100020: joint19
+    100022: joint2
+    100024: joint20
+    100026: joint21
+    100028: joint22
+    100030: joint23
+    100032: joint24
+    100034: joint25
+    100036: joint26
+    100038: joint27
+    100040: joint28
+    100042: joint29
+    100044: joint3
+    100046: joint30
+    100048: joint31
+    100050: joint32
+    100052: joint4
+    100054: joint5
+    100056: joint6
+    100058: joint7
+    100060: joint8
+    100062: joint9
+    100064: Team_Gabangman
+    100066: //RootNode
+    100068: Arm_L
+    100070: Arm_R
+    100072: Ball_L
+    100074: Ball_R
+    100076: Chest_1
+    100078: Chest_2
+    100080: Chest_3
+    100082: Elbow_L
+    100084: Elbow_R
+    100086: Finger_L_1
+    100088: Finger_L_2
+    100090: Finger_R_1
+    100092: Finger_R_2
+    100094: Finger_Tip_L
+    100096: Finger_Tip_R
+    100098: Hand_L
+    100100: Hand_R
+    100102: Head
+    100104: Hip_L
+    100106: Hip_R
+    100108: Knee_L
+    100110: Knee_R
+    100112: Neck
+    100114: Root
+    100116: Shoulder_L
+    100118: Shoulder_R
+    100120: Theet
+    100122: Theet_Tip
+    100124: Toe_L
+    100126: Toe_R
+    100128: ToeTip_L
+    100130: ToeTip_R
+    100132: PC_1200
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint13
+    400010: joint14
+    400012: joint15
+    400014: joint16
+    400016: joint17
+    400018: joint18
+    400020: joint19
+    400022: joint2
+    400024: joint20
+    400026: joint21
+    400028: joint22
+    400030: joint23
+    400032: joint24
+    400034: joint25
+    400036: joint26
+    400038: joint27
+    400040: joint28
+    400042: joint29
+    400044: joint3
+    400046: joint30
+    400048: joint31
+    400050: joint32
+    400052: joint4
+    400054: joint5
+    400056: joint6
+    400058: joint7
+    400060: joint8
+    400062: joint9
+    400064: Team_Gabangman
+    400066: //RootNode
+    400068: Arm_L
+    400070: Arm_R
+    400072: Ball_L
+    400074: Ball_R
+    400076: Chest_1
+    400078: Chest_2
+    400080: Chest_3
+    400082: Elbow_L
+    400084: Elbow_R
+    400086: Finger_L_1
+    400088: Finger_L_2
+    400090: Finger_R_1
+    400092: Finger_R_2
+    400094: Finger_Tip_L
+    400096: Finger_Tip_R
+    400098: Hand_L
+    400100: Hand_R
+    400102: Head
+    400104: Hip_L
+    400106: Hip_R
+    400108: Knee_L
+    400110: Knee_R
+    400112: Neck
+    400114: Root
+    400116: Shoulder_L
+    400118: Shoulder_R
+    400120: Theet
+    400122: Theet_Tip
+    400124: Toe_L
+    400126: Toe_R
+    400128: ToeTip_L
+    400130: ToeTip_R
+    400132: PC_1200
+    4300000: Team_Gabangman
+    4300002: PC_1200
+    7400000: Default
+    7400002: jack_idle
+    7400004: jack_run_pushup_L
+    7400006: jack_pushup_idle_L
+    7400008: jack_run_pushup_R
+    7400010: jack_pushup_idle_R
+    7400012: jack_exit
+    7400014: jack_exit_idle
+    7400016: tire_idle
+    7400018: tire_run_R
+    7400020: tire_crew_idle_R
+    7400022: tire_run_L
+    7400024: tire_crew_idle_L
+    7400026: tire_exit
+    7400028: tire_exit_idle
+    7400030: gas_idle
+    7400032: gas_run
+    7400034: gas_insert
+    7400036: gas_exit
+    7400038: gas_exit_idle
+    7400040: chief_idle
+    7400042: driver_idle
+    7400044: jack_run_pushup_R_Up
+    7400046: jack_run_pushup_L_Up
+    7400048: chief_idle_stand
+    7400050: driver_idle_stand
+    7400052: City_jack_run_pushup_R
+    7400054: City_tire_run_R
+    7400056: City_gas_run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Team_Gabangman
+    13700002: PC_1200
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint6
+        weight: 1
+      - path: joint6/joint1
+        weight: 1
+      - path: joint6/joint1/joint2
+        weight: 1
+      - path: joint6/joint1/joint2/joint3
+        weight: 1
+      - path: joint6/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint6/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint6/joint7
+        weight: 1
+      - path: joint6/joint7/joint8
+        weight: 1
+      - path: joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: joint6/joint21
+        weight: 1
+      - path: joint6/joint21/joint22
+        weight: 1
+      - path: joint6/joint21/joint22/joint23
+        weight: 1
+      - path: joint6/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: joint6/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_idle
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint6
+        weight: 1
+      - path: joint6/joint1
+        weight: 1
+      - path: joint6/joint1/joint2
+        weight: 1
+      - path: joint6/joint1/joint2/joint3
+        weight: 1
+      - path: joint6/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint6/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint6/joint7
+        weight: 1
+      - path: joint6/joint7/joint8
+        weight: 1
+      - path: joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: joint6/joint21
+        weight: 1
+      - path: joint6/joint21/joint22
+        weight: 1
+      - path: joint6/joint21/joint22/joint23
+        weight: 1
+      - path: joint6/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: joint6/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_run_pushup_R
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 220
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint6
+        weight: 1
+      - path: joint6/joint1
+        weight: 1
+      - path: joint6/joint1/joint2
+        weight: 1
+      - path: joint6/joint1/joint2/joint3
+        weight: 1
+      - path: joint6/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint6/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint6/joint7
+        weight: 1
+      - path: joint6/joint7/joint8
+        weight: 1
+      - path: joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint14/joint15/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: joint6/joint7/joint8/joint9/joint26/joint27/joint28/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: joint6/joint21
+        weight: 1
+      - path: joint6/joint21/joint22
+        weight: 1
+      - path: joint6/joint21/joint22/joint23
+        weight: 1
+      - path: joint6/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: joint6/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_pushup_idle_R
+      takeName: Take 001
+      firstFrame: 266
+      lastFrame: 315
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_run_pushup_L
+      takeName: Take 001
+      firstFrame: 346
+      lastFrame: 420
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_pushup_idle_L
+      takeName: Take 001
+      firstFrame: 466
+      lastFrame: 515
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_exit
+      takeName: Take 001
+      firstFrame: 546
+      lastFrame: 645
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_exit_idle
+      takeName: Take 001
+      firstFrame: 676
+      lastFrame: 725
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tire_idle
+      takeName: Take 001
+      firstFrame: 756
+      lastFrame: 815
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tire_run_R
+      takeName: Take 001
+      firstFrame: 846
+      lastFrame: 960
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tire_crew_idle_R
+      takeName: Take 001
+      firstFrame: 991
+      lastFrame: 1040
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tire_run_L
+      takeName: Take 001
+      firstFrame: 1071
+      lastFrame: 1160
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tire_crew_idle_L
+      takeName: Take 001
+      firstFrame: 1191
+      lastFrame: 1240
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tire_exit
+      takeName: Take 001
+      firstFrame: 1271
+      lastFrame: 1370
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tire_exit_idle
+      takeName: Take 001
+      firstFrame: 1401
+      lastFrame: 1450
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gas_idle
+      takeName: Take 001
+      firstFrame: 1481
+      lastFrame: 1540
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gas_run
+      takeName: Take 001
+      firstFrame: 1571
+      lastFrame: 1670
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gas_insert
+      takeName: Take 001
+      firstFrame: 1716
+      lastFrame: 1765
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gas_exit
+      takeName: Take 001
+      firstFrame: 1796
+      lastFrame: 1895
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gas_exit_idle
+      takeName: Take 001
+      firstFrame: 1926
+      lastFrame: 1975
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: chief_idle
+      takeName: Take 001
+      firstFrame: 2006
+      lastFrame: 2065
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: driver_idle
+      takeName: Take 001
+      firstFrame: 2186
+      lastFrame: 2245
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_run_pushup_R_Up
+      takeName: Take 001
+      firstFrame: 221
+      lastFrame: 235
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jack_run_pushup_L_Up
+      takeName: Take 001
+      firstFrame: 421
+      lastFrame: 435
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: chief_idle_stand
+      takeName: Take 001
+      firstFrame: 2096
+      lastFrame: 2155
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/joint1
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: driver_idle_stand
+      takeName: Take 001
+      firstFrame: 2279
+      lastFrame: 2335
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/joint1
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      - path: Team_Gabangman
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: City_jack_run_pushup_R
+      takeName: Take 001
+      firstFrame: 161
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PC_1200
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/joint1
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: City_tire_run_R
+      takeName: Take 001
+      firstFrame: 886
+      lastFrame: 960
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PC_1200
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/joint1
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: City_gas_run
+      takeName: Take 001
+      firstFrame: 1611
+      lastFrame: 1670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PC_1200
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Chest_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Neck/Head/Theet/Theet_Tip
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_L/Arm_L/Elbow_L/Hand_L/Finger_L_1/Finger_L_2/Finger_Tip_L
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/Finger_R_1/Finger_R_2/Finger_Tip_R
+        weight: 1
+      - path: Root/Chest_1/Chest_2/Chest_3/Shoulder_R/Arm_R/Elbow_R/Hand_R/joint1
+        weight: 1
+      - path: Root/Hip_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L
+        weight: 1
+      - path: Root/Hip_L/Knee_L/Ball_L/Toe_L/ToeTip_L
+        weight: 1
+      - path: Root/Hip_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R
+        weight: 1
+      - path: Root/Hip_R/Knee_R/Ball_R/Toe_R/ToeTip_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

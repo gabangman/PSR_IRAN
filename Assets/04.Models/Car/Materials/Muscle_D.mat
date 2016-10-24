@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Muscle_D
+  m_Shader: {fileID: 4800000, guid: e629bc0ac0d36434ebe91cf4e7f9c3df, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 5e0f440fa4aa044b48f5ffcbc59180f8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: 5e0f440fa4aa044b48f5ffcbc59180f8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _RimPower
+        second: 1.12205803
+      data:
+        first:
+          name: _Glossiness
+        second: .430051804
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _DiffuseColor
+        second: {r: .757352948, g: .757352948, b: .757352948, a: 1}
+      data:
+        first:
+          name: _ApplyBuffColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .346020758, g: .367647052, b: .367647052, a: 1}
+      data:
+        first:
+          name: _SpecularColor
+        second: {r: .544776082, g: .544776082, b: .544776082, a: 1}

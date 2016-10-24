@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: d62a4749da3ead644a233470013b8c58
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: pCube1
+    100002: pCube10
+    100004: pCube2
+    100006: pCube3
+    100008: pCube4
+    100010: pCube5
+    100012: pCube6
+    100014: pCube7
+    100016: pCube8
+    100018: pCube9
+    100020: R2_Finsih
+    100022: R2_Finsih1
+    100024: TireFrontL
+    100026: TireFrontL 1
+    100028: TireFrontL 2
+    100030: TireFrontL 3
+    100032: TireFrontL 4
+    100034: TireFrontL 5
+    100036: TireFrontL 6
+    100038: TireFrontL 7
+    100040: TireFrontL 8
+    100042: TireFrontL 9
+    100044: TireFrontR
+    100046: TireFrontR 1
+    100048: TireFrontR 2
+    100050: TireFrontR 3
+    100052: TireFrontR 4
+    100054: TireFrontR 5
+    100056: TireFrontR 6
+    100058: TireFrontR 7
+    100060: TireFrontR 8
+    100062: TireFrontR 9
+    100064: TireRearL
+    100066: TireRearL 1
+    100068: TireRearL 2
+    100070: TireRearL 3
+    100072: TireRearL 4
+    100074: TireRearL 5
+    100076: TireRearL 6
+    100078: TireRearL 7
+    100080: TireRearL 8
+    100082: TireRearL 9
+    100084: TireRearR
+    100086: TireRearR 1
+    100088: TireRearR 2
+    100090: TireRearR 3
+    100092: TireRearR 4
+    100094: TireRearR 5
+    100096: TireRearR 6
+    100098: TireRearR 7
+    100100: TireRearR 8
+    100102: TireRearR 9
+    100104: //RootNode
+    400000: pCube1
+    400002: pCube10
+    400004: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pCube5
+    400012: pCube6
+    400014: pCube7
+    400016: pCube8
+    400018: pCube9
+    400020: R2_Finsih
+    400022: R2_Finsih1
+    400024: TireFrontL
+    400026: TireFrontL 1
+    400028: TireFrontL 2
+    400030: TireFrontL 3
+    400032: TireFrontL 4
+    400034: TireFrontL 5
+    400036: TireFrontL 6
+    400038: TireFrontL 7
+    400040: TireFrontL 8
+    400042: TireFrontL 9
+    400044: TireFrontR
+    400046: TireFrontR 1
+    400048: TireFrontR 2
+    400050: TireFrontR 3
+    400052: TireFrontR 4
+    400054: TireFrontR 5
+    400056: TireFrontR 6
+    400058: TireFrontR 7
+    400060: TireFrontR 8
+    400062: TireFrontR 9
+    400064: TireRearL
+    400066: TireRearL 1
+    400068: TireRearL 2
+    400070: TireRearL 3
+    400072: TireRearL 4
+    400074: TireRearL 5
+    400076: TireRearL 6
+    400078: TireRearL 7
+    400080: TireRearL 8
+    400082: TireRearL 9
+    400084: TireRearR
+    400086: TireRearR 1
+    400088: TireRearR 2
+    400090: TireRearR 3
+    400092: TireRearR 4
+    400094: TireRearR 5
+    400096: TireRearR 6
+    400098: TireRearR 7
+    400100: TireRearR 8
+    400102: TireRearR 9
+    400104: //RootNode
+    2300000: pCube1
+    2300002: pCube10
+    2300004: pCube2
+    2300006: pCube3
+    2300008: pCube4
+    2300010: pCube5
+    2300012: pCube6
+    2300014: pCube7
+    2300016: pCube8
+    2300018: pCube9
+    2300020: R2_Finsih
+    2300022: R2_Finsih1
+    2300024: TireFrontL
+    2300026: TireFrontL 1
+    2300028: TireFrontL 2
+    2300030: TireFrontL 3
+    2300032: TireFrontL 4
+    2300034: TireFrontL 5
+    2300036: TireFrontL 6
+    2300038: TireFrontL 7
+    2300040: TireFrontL 8
+    2300042: TireFrontL 9
+    2300044: TireFrontR
+    2300046: TireFrontR 1
+    2300048: TireFrontR 2
+    2300050: TireFrontR 3
+    2300052: TireFrontR 4
+    2300054: TireFrontR 5
+    2300056: TireFrontR 6
+    2300058: TireFrontR 7
+    2300060: TireFrontR 8
+    2300062: TireFrontR 9
+    2300064: TireRearL
+    2300066: TireRearL 1
+    2300068: TireRearL 2
+    2300070: TireRearL 3
+    2300072: TireRearL 4
+    2300074: TireRearL 5
+    2300076: TireRearL 6
+    2300078: TireRearL 7
+    2300080: TireRearL 8
+    2300082: TireRearL 9
+    2300084: TireRearR
+    2300086: TireRearR 1
+    2300088: TireRearR 2
+    2300090: TireRearR 3
+    2300092: TireRearR 4
+    2300094: TireRearR 5
+    2300096: TireRearR 6
+    2300098: TireRearR 7
+    2300100: TireRearR 8
+    2300102: TireRearR 9
+    3300000: pCube1
+    3300002: pCube10
+    3300004: pCube2
+    3300006: pCube3
+    3300008: pCube4
+    3300010: pCube5
+    3300012: pCube6
+    3300014: pCube7
+    3300016: pCube8
+    3300018: pCube9
+    3300020: R2_Finsih
+    3300022: R2_Finsih1
+    3300024: TireFrontL
+    3300026: TireFrontL 1
+    3300028: TireFrontL 2
+    3300030: TireFrontL 3
+    3300032: TireFrontL 4
+    3300034: TireFrontL 5
+    3300036: TireFrontL 6
+    3300038: TireFrontL 7
+    3300040: TireFrontL 8
+    3300042: TireFrontL 9
+    3300044: TireFrontR
+    3300046: TireFrontR 1
+    3300048: TireFrontR 2
+    3300050: TireFrontR 3
+    3300052: TireFrontR 4
+    3300054: TireFrontR 5
+    3300056: TireFrontR 6
+    3300058: TireFrontR 7
+    3300060: TireFrontR 8
+    3300062: TireFrontR 9
+    3300064: TireRearL
+    3300066: TireRearL 1
+    3300068: TireRearL 2
+    3300070: TireRearL 3
+    3300072: TireRearL 4
+    3300074: TireRearL 5
+    3300076: TireRearL 6
+    3300078: TireRearL 7
+    3300080: TireRearL 8
+    3300082: TireRearL 9
+    3300084: TireRearR
+    3300086: TireRearR 1
+    3300088: TireRearR 2
+    3300090: TireRearR 3
+    3300092: TireRearR 4
+    3300094: TireRearR 5
+    3300096: TireRearR 6
+    3300098: TireRearR 7
+    3300100: TireRearR 8
+    3300102: TireRearR 9
+    4300000: pCube1
+    4300002: TireFrontR
+    4300004: TireRearL
+    4300006: TireFrontL
+    4300008: TireRearR
+    4300010: R2_Finsih
+    4300012: R2_Finsih1
+    4300014: pCube2
+    4300016: TireFrontR
+    4300018: TireRearL
+    4300020: TireFrontL
+    4300022: TireRearR
+    4300024: pCube3
+    4300026: TireFrontR
+    4300028: TireRearL
+    4300030: TireFrontL
+    4300032: TireRearR
+    4300034: pCube4
+    4300036: TireFrontR
+    4300038: TireRearL
+    4300040: TireFrontL
+    4300042: TireRearR
+    4300044: pCube5
+    4300046: TireFrontR
+    4300048: TireRearL
+    4300050: TireFrontL
+    4300052: TireRearR
+    4300054: pCube6
+    4300056: TireFrontR
+    4300058: TireRearL
+    4300060: TireFrontL
+    4300062: TireRearR
+    4300064: pCube7
+    4300066: TireFrontR
+    4300068: TireRearL
+    4300070: TireFrontL
+    4300072: TireRearR
+    4300074: pCube8
+    4300076: TireFrontR
+    4300078: TireRearL
+    4300080: TireFrontL
+    4300082: TireRearR
+    4300084: pCube9
+    4300086: TireFrontR
+    4300088: TireRearL
+    4300090: TireFrontL
+    4300092: TireRearR
+    4300094: pCube10
+    4300096: TireFrontR
+    4300098: TireRearL
+    4300100: TireFrontL
+    4300102: TireRearR
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

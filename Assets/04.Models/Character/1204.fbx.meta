@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: e9bde36da8fd3e443a057ec9dc354b4f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Arm_L
+    100004: Arm_R
+    100006: Ball_L
+    100008: Ball_R
+    100010: Chest_1
+    100012: Chest_2
+    100014: Chest_3
+    100016: Elbow_L
+    100018: Elbow_R
+    100020: Finger_L_1
+    100022: Finger_L_2
+    100024: Finger_R_1
+    100026: Finger_R_2
+    100028: Finger_Tip_L
+    100030: Finger_Tip_R
+    100032: Hand_L
+    100034: Hand_R
+    100036: Head
+    100038: Hip_L
+    100040: Hip_R
+    100042: joint1
+    100044: Knee_L
+    100046: Knee_R
+    100048: Neck
+    100050: Root
+    100052: Shoulder_L
+    100054: Shoulder_R
+    100056: Team_Gabangman
+    100058: Theet
+    100060: Theet_Tip
+    100062: Toe_L
+    100064: Toe_R
+    100066: ToeTip_L
+    100068: ToeTip_R
+    400000: //RootNode
+    400002: Arm_L
+    400004: Arm_R
+    400006: Ball_L
+    400008: Ball_R
+    400010: Chest_1
+    400012: Chest_2
+    400014: Chest_3
+    400016: Elbow_L
+    400018: Elbow_R
+    400020: Finger_L_1
+    400022: Finger_L_2
+    400024: Finger_R_1
+    400026: Finger_R_2
+    400028: Finger_Tip_L
+    400030: Finger_Tip_R
+    400032: Hand_L
+    400034: Hand_R
+    400036: Head
+    400038: Hip_L
+    400040: Hip_R
+    400042: joint1
+    400044: Knee_L
+    400046: Knee_R
+    400048: Neck
+    400050: Root
+    400052: Shoulder_L
+    400054: Shoulder_R
+    400056: Team_Gabangman
+    400058: Theet
+    400060: Theet_Tip
+    400062: Toe_L
+    400064: Toe_R
+    400066: ToeTip_L
+    400068: ToeTip_R
+    4300000: Team_Gabangman
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Team_Gabangman
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
