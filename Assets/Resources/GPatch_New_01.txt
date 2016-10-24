@@ -1,0 +1,22 @@
+﻿version;0
+notics1;1
+notics2;0
+notics3;0
+TexturePatch;1
+TablePatch;1
+serverNotics;0
+attend;1
+AD;0
+sale;0
+TexureUrl;http://cdn.gabangmanstudio.com/Data/AssetBundle_Global/PitTex_02.unity3d
+TableUrl;http://cdn.gabangmanstudio.com/Data/AssetBundle_Global/GTableAsset_01.unity3d
+Url1;http://cdn.gabangmanstudio.com/Notice/Event_NewUser_game.jpg
+Url2;http://cdn.gabangmanstudio.com/Notice/UpContent_1_1.jpg
+Url3;http://cdn.gabangmanstudio.com/Notice/UpContent_2_1.jpg
+ReviewUrl;market://details?id=com.GaBangMan.PitInRacing
+ServerContents;[ff3600]서버점검 안내[-]@@[009cff]금일 새벽 2시~3시[-]에@서버점검이 있을 예정입니다.
+1.0.0;market://details?id=com.Infinitecrew.PitInRace
+contentUrlpage;https://www.facebook.com/pitinracing
+couponBtnUrl;http://cdn.gabangmanstudio.com/Notice/Icon_Like_1.png
+couponImgUrl;http://cdn.gabangmanstudio.com/Notice/LikeEvent_coupon_1.jpg
+0.75;no;no
