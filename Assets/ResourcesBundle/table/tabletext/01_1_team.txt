@@ -1,0 +1,10 @@
+[
+	{"ID":10, "ReqLV":1, "Crew":1200, "Name":80010, "Model":1, "Car_free":1000, "Res":0, "Buyprice":0, "Team_x":1},
+	{"ID":11, "ReqLV":2, "Crew":1201, "Name":80011, "Model":1, "Car_free":0, "Res":4, "Buyprice":165000, "Team_x":2},
+	{"ID":12, "ReqLV":3, "Crew":1202, "Name":80012, "Model":1, "Car_free":0, "Res":4, "Buyprice":264000, "Team_x":3},
+	{"ID":13, "ReqLV":4, "Crew":1203, "Name":80013, "Model":1, "Car_free":0, "Res":4, "Buyprice":363000, "Team_x":4},
+	{"ID":14, "ReqLV":4, "Crew":1204, "Name":80014, "Model":1, "Car_free":0, "Res":4, "Buyprice":462000, "Team_x":5},
+	{"ID":15, "ReqLV":5, "Crew":1205, "Name":80015, "Model":1, "Car_free":0, "Res":4, "Buyprice":561000, "Team_x":6},
+	{"ID":16, "ReqLV":5, "Crew":1206, "Name":80016, "Model":1, "Car_free":0, "Res":4, "Buyprice":660000, "Team_x":7},
+	{"ID":17, "ReqLV":6, "Crew":1210, "Name":80017, "Model":1, "Car_free":0, "Res":4, "Buyprice":759000, "Team_x":8}
+]

@@ -1,0 +1,9 @@
+[
+	{"ID":5000, "PartName":15000, "Text":25000, "Text2":35000, "Ratio_1t":1000, "UpRatio":20, "Ratio_2_1t":800, "UpRatio_2":20, "Ratio_3_1t":640, "UpRatio_3":20, "Ratio_4_1t":520, "UpRatio_4":20, "Ratio_5_1t":440, "UpRatio_5":20},
+	{"ID":5001, "PartName":15001, "Text":25001, "Text2":35001, "Ratio_1t":1600, "UpRatio":20, "Ratio_2_1t":1400, "UpRatio_2":20, "Ratio_3_1t":1300, "UpRatio_3":20, "Ratio_4_1t":1200, "UpRatio_4":20, "Ratio_5_1t":1100, "UpRatio_5":20},
+	{"ID":5002, "PartName":15002, "Text":25002, "Text2":35002, "Ratio_1t":-90, "UpRatio":20, "Ratio_2_1t":-90, "UpRatio_2":20, "Ratio_3_1t":-80, "UpRatio_3":20, "Ratio_4_1t":-70, "UpRatio_4":20, "Ratio_5_1t":-50, "UpRatio_5":20},
+	{"ID":5003, "PartName":15003, "Text":25003, "Text2":35003, "Ratio_1t":-30, "UpRatio":20, "Ratio_2_1t":-28, "UpRatio_2":20, "Ratio_3_1t":-26, "UpRatio_3":20, "Ratio_4_1t":-23, "UpRatio_4":20, "Ratio_5_1t":-20, "UpRatio_5":20},
+	{"ID":5004, "PartName":15004, "Text":25001, "Text2":35004, "Ratio_1t":600, "UpRatio":20, "Ratio_2_1t":500, "UpRatio_2":20, "Ratio_3_1t":420, "UpRatio_3":20, "Ratio_4_1t":360, "UpRatio_4":20, "Ratio_5_1t":320, "UpRatio_5":20},
+	{"ID":5005, "PartName":15005, "Text":25005, "Text2":35005, "Ratio_1t":2000, "UpRatio":20, "Ratio_2_1t":1800, "UpRatio_2":20, "Ratio_3_1t":1600, "UpRatio_3":20, "Ratio_4_1t":1400, "UpRatio_4":20, "Ratio_5_1t":1200, "UpRatio_5":20},
+	{"ID":5006, "PartName":15006, "Text":25006, "Text2":35006, "Ratio_1t":200, "UpRatio":20, "Ratio_2_1t":190, "UpRatio_2":20, "Ratio_3_1t":180, "UpRatio_3":20, "Ratio_4_1t":170, "UpRatio_4":20, "Ratio_5_1t":160, "UpRatio_5":20}
+]
