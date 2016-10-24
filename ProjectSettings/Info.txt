@@ -1,0 +1,31 @@
+05월 24일 
+
+J:\Project\Project_gabangman\trunk\Client_And\ProjectSettings>keytool -exportcer
+t -alias gabangrelease -keystore GabangRelease.keystore | openssl sha1 -binary |
+ openssl base64
+키 저장소 비밀번호 입력:  gabang0407
+fPK5Sz8aiA0a4H9uaUKdLUFfM58=
+
+
+J:\Project\Project_gabangman\trunk\Client_And\ProjectSettings>keytool -exportcer
+t -alias gabangrelease -keystore GabangRelease.keystore -list -v
+키 저장소 비밀번호 입력:
+별칭 이름: gabangrelease
+생성 날짜: 2016. 5. 24
+항목 유형: PrivateKeyEntry
+인증서 체인 길이: 1
+인증서[1]:
+소유자: O=gabangmanstudio
+발행자: O=gabangmanstudio
+일련 번호: 64d78f09
+적합한 시작 날짜: Tue May 24 14:35:12 KST 2016, 종료 날짜: Wed May 12 14:35:12 K
+ST 2066
+인증서 지문:
+         MD5: 29:FF:ED:96:EF:EC:04:6B:8D:66:CB:D2:63:BC:38:05
+         SHA1: 7C:F2:B9:4B:3F:1A:88:0D:1A:E0:7F:6E:69:42:9D:2D:41:5F:33:9F
+         SHA256: 79:51:B8:0F:5F:49:C2:E3:B3:88:D7:E7:88:FB:08:4B:32:0F:F0:22:55:
+B0:D9:82:56:01:D3:FB:5F:DD:A0:80
+         서명 알고리즘 이름: SHA1withRSA
+         버전: 3
+
+
