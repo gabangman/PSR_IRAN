@@ -1,7 +1,0 @@
-[
-	{"ID":8650, "Name":18650, "Text":28650, "Torque":50, "Time":1.2, "Res":2, "Coin":1200},
-	{"ID":8651, "Name":18651, "Text":28651, "Torque":60, "Time":1.4, "Res":2, "Coin":2500},
-	{"ID":8652, "Name":18652, "Text":28652, "Torque":70, "Time":1.6, "Res":1, "Coin":1},
-	{"ID":8653, "Name":18653, "Text":28653, "Torque":80, "Time":1.8, "Res":1, "Coin":3},
-	{"ID":8654, "Name":18654, "Text":28654, "Torque":100, "Time":2, "Res":1, "Coin":5}
-]

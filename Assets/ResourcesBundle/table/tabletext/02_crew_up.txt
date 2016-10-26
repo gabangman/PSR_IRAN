@@ -1,7 +1,0 @@
-[
-	{"ID":5100, "PartName":15100, "Text":25100, "Text2":35100, "Ratio_1t":40000},
-	{"ID":5101, "PartName":15101, "Text":25101, "Text2":35101, "Ratio_1t":-20},
-	{"ID":5102, "PartName":15102, "Text":25102, "Text2":35102, "Ratio_1t":-90},
-	{"ID":5103, "PartName":15103, "Text":25103, "Text2":35103, "Ratio_1t":100},
-	{"ID":5104, "PartName":15104, "Text":25104, "Text2":35104, "Ratio_1t":-520}
-]

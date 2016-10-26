@@ -1,8 +1,0 @@
-[
-	{"ID":1450, "ModeNum":1, "Re_Min":20, "Re_Max":40, "Ctrl_Delay":0.3},
-	{"ID":1451, "ModeNum":2, "Re_Min":20, "Re_Max":40, "Ctrl_Delay":0.3},
-	{"ID":1452, "ModeNum":3, "Re_Min":20, "Re_Max":40, "Ctrl_Delay":0.3},
-	{"ID":1453, "ModeNum":4, "Re_Min":20, "Re_Max":40, "Ctrl_Delay":0.3},
-	{"ID":1454, "ModeNum":5, "Re_Min":20, "Re_Max":40, "Ctrl_Delay":0.4},
-	{"ID":1455, "ModeNum":6, "Re_Min":20, "Re_Max":40, "Ctrl_Delay":0.3}
-]

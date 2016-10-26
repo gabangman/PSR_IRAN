@@ -1,8 +1,0 @@
-[
-	{"ID":1300, "Name":11300, "Text":21300, "BonusT1":0, "BonusT2":0, "BonusT3":0, "BonusT4":0, "BonusT5":0, "BonusT6":0, "BonusT7":0, "BonusT8":0, "Period":0, "Res":0, "img":"1300A", "BuyPrice":0, "ReqLV":0, "Power_inc":0, "Dura_dec":0, "Led_dec":0},
-	{"ID":1301, "Name":11301, "Text":21300, "BonusT1":450, "BonusT2":900, "BonusT3":1350, "BonusT4":1800, "BonusT5":2250, "BonusT6":2700, "BonusT7":3150, "BonusT8":3600, "Period":12, "Res":2, "img":"1301A", "BuyPrice":15000, "ReqLV":1, "Power_inc":10, "Dura_dec":3, "Led_dec":2},
-	{"ID":1302, "Name":11302, "Text":21300, "BonusT1":200, "BonusT2":400, "BonusT3":600, "BonusT4":800, "BonusT5":1000, "BonusT6":1200, "BonusT7":1400, "BonusT8":1600, "Period":12, "Res":2, "img":"1302A", "BuyPrice":12000, "ReqLV":1, "Power_inc":5, "Dura_dec":2, "Led_dec":2},
-	{"ID":1303, "Name":11303, "Text":21300, "BonusT1":500, "BonusT2":1000, "BonusT3":1500, "BonusT4":2000, "BonusT5":2500, "BonusT6":3000, "BonusT7":3500, "BonusT8":4000, "Period":12, "Res":1, "img":"1303A", "BuyPrice":40, "ReqLV":1, "Power_inc":10, "Dura_dec":5, "Led_dec":3},
-	{"ID":1304, "Name":11304, "Text":21300, "BonusT1":750, "BonusT2":1500, "BonusT3":2250, "BonusT4":3000, "BonusT5":3750, "BonusT6":4500, "BonusT7":5250, "BonusT8":6000, "Period":12, "Res":1, "img":"1304A", "BuyPrice":60, "ReqLV":1, "Power_inc":20, "Dura_dec":7, "Led_dec":5},
-	{"ID":1305, "Name":11305, "Text":21300, "BonusT1":1000, "BonusT2":2000, "BonusT3":3000, "BonusT4":4000, "BonusT5":5000, "BonusT6":6000, "BonusT7":7000, "BonusT8":8000, "Period":12, "Res":1, "img":"1305A", "BuyPrice":80, "ReqLV":1, "Power_inc":30, "Dura_dec":10, "Led_dec":7}
-]
